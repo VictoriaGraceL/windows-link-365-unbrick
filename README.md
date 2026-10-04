@@ -48,10 +48,5 @@ Alternatively, force shutdown with the power button before Windows finishes load
 
 An ordinary WinRE reset requires a BitLocker key; the BMR flow above has different instructions.
 
-## Further help
-
-- [Troubleshooting](docs/TROUBLESHOOTING.md)
-- [Sources and differences](docs/SOURCES.md)
-- [Publish this repository](docs/PUBLISH.md)
 
 No recovery binaries or automated wipe scripts are included. Windows 365 and Microsoft names belong to their respective owners; this project is not affiliated with Microsoft.

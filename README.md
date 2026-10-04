@@ -4,7 +4,7 @@ An independent recovery guide for Windows 365 Link, based on Microsoft documenta
 
 **Destructive procedure:** USB preparation erases the selected USB drive; recovery erases the Link device. Get authorization from its owner or IT administrator. Keep power connected throughout reimaging.
 
-This guide combines documentation with the author's reported hardware experience: a USB drive showing 7.2 GB capacity and a metal pin to enter UEFI boot settings. Completion of the full recovery has not yet been confirmed.
+This guide combines documentation with the author's reported hardware experience: a USB drive showing 7.2 GB capacity and a metal pin to enter UEFI boot settings. Completion of the full recovery has been confirmed.
 
 ## Choose a recovery method
 
